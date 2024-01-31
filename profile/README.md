@@ -26,7 +26,6 @@ Three things characterize eXo Platform and set it apart from any other digital w
 eXo Platform is distributed under two editions - **eXo Platform CE** (**community** edition) and **eXo Platform EE** (**enterprise** edition).
 
 eXo Platform Community Edition is distributed for free, under the open source **AGPL license**
-For more information, please visit the [community github repository](https://github.com/exoplatform/exo-community).
 
 eXo Platform Enterprise Edition is distributed under a **commercial license**, using a **subscription** model.
 
@@ -36,9 +35,10 @@ More on the similarities and differences between the editions can be found here 
 - Check out our **free hosted trial** : [eXo hosted trial](https://trial.exoplatform.org/portal/dw/).
 - To **run our community edition** on your machine, start here : [eXo starting guide](https://exoplatform.github.io/guide/getting-started/start-community.html).
 - Browse our **technical documentation** here : [eXo technical documentation](https://exoplatform.github.io/guide/getting-started/Introduction.html).
+- Find the eXo Community Packaging **Source Code** repository here : [eXo public distribution](https://github.com/exoplatform/platform-public-distributions)
 - Find our **REST APIs** listed here : [eXo REST APIs](https://exoplatform.github.io/guide/developer-guide/rest-api.html).
 
 ## Any questions :
-- For any questions about **the community edition**, start a discussion here : [eXo discussion forum](https://github.com/exoplatform/exo-community/discussions/categories/q-a)
+- For any questions about **the community edition**, please join our online community platform : [eXo Tribe](https://community.exoplatform.com/)
 - For questions about our enterprise edition and commercial offers, contact us on our website - [www.exoplatform.com](https://www.exoplatform.com/)
  
