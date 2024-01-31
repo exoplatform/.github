@@ -35,7 +35,7 @@ More on the similarities and differences between the editions can be found here 
 - Check out our **free hosted trial** : [eXo hosted trial](https://trial.exoplatform.org/portal/dw/).
 - To **run our community edition** on your machine, start here : [eXo starting guide](https://exoplatform.github.io/guide/getting-started/start-community.html).
 - Browse our **technical documentation** here : [eXo technical documentation](https://exoplatform.github.io/guide/getting-started/Introduction.html).
-- Find our **Source code** packaged here : [eXo public distribution](https://github.com/exoplatform/platform-public-distributions)
+- Find the eXo Community Packaging **Source Code** repository here : [eXo public distribution](https://github.com/exoplatform/platform-public-distributions)
 - Find our **REST APIs** listed here : [eXo REST APIs](https://exoplatform.github.io/guide/developer-guide/rest-api.html).
 
 ## Any questions :
